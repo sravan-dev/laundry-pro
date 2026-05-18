@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# SQLite database (auto-created by PHP)
+backend/database/*.db
+backend/database/*.db-shm
+backend/database/*.db-wal
+
+# APK builds
+*.apk
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+**/.idea/
+**/*.iml
+**/android/.gradle/
+**/android/local.properties
+**/android/key.properties
+**/ios/Pods/
+**/ios/.symlinks/
+**/macos/Pods/
+**/macos/.symlinks/
+**/.symlinks/
+
+# PHP / Server
+backend/api/debug.php
+/tmp/
