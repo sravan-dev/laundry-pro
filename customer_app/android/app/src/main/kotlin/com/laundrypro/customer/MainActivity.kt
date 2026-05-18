@@ -1,4 +1,4 @@
-package com.example.laundry_customer
+package com.laundrypro.customer
 
 import io.flutter.embedding.android.FlutterActivity
 
